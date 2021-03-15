@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 
 #  Agenda o desligamento do computador em quantos minutos desejados, para Windows.  
-
+# Author:  Igor Vinicius Freitas de Souza
+# GitHub: https://github.com/igor1043
+# E-mail: igorviniciusfreitasouza@gmail.com
 
 import os
 
