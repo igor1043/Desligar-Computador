@@ -8,4 +8,4 @@ Python
 Pequeno codigo que desliga o computador ao ser executado.
 ## Autor
 
-* Igor Vincius Freitas de Souza
+* Igor Vincius Freitas de Souza 
